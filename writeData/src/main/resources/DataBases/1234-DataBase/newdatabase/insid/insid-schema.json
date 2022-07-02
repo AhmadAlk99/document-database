@@ -1,0 +1,6 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "insid",
+  "type": "object",
+  "properties": {"_id": {"type": "integer"},"name": {"type": "string"},"price": {"type": "number","minimum": 0}}
+ }
